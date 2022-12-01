@@ -1,0 +1,31 @@
+C:\Users\noorj\OneDrive\Desktop\.net course\ASP Core Web App1\ASP Core Web App1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\noorj\OneDrive\Desktop\.net course\ASP Core Web App1\ASP Core Web App1\bin\Debug\net6.0\appsettings.json
+C:\Users\noorj\OneDrive\Desktop\.net course\ASP Core Web App1\ASP Core Web App1\bin\Debug\net6.0\ASP Core Web App1.staticwebassets.runtime.json
+C:\Users\noorj\OneDrive\Desktop\.net course\ASP Core Web App1\ASP Core Web App1\bin\Debug\net6.0\ASP Core Web App1.exe
+C:\Users\noorj\OneDrive\Desktop\.net course\ASP Core Web App1\ASP Core Web App1\bin\Debug\net6.0\ASP Core Web App1.deps.json
+C:\Users\noorj\OneDrive\Desktop\.net course\ASP Core Web App1\ASP Core Web App1\bin\Debug\net6.0\ASP Core Web App1.runtimeconfig.json
+C:\Users\noorj\OneDrive\Desktop\.net course\ASP Core Web App1\ASP Core Web App1\bin\Debug\net6.0\ASP Core Web App1.dll
+C:\Users\noorj\OneDrive\Desktop\.net course\ASP Core Web App1\ASP Core Web App1\bin\Debug\net6.0\ASP Core Web App1.pdb
+C:\Users\noorj\OneDrive\Desktop\.net course\ASP Core Web App1\ASP Core Web App1\obj\Debug\net6.0\ASP Core Web App1.csproj.AssemblyReference.cache
+C:\Users\noorj\OneDrive\Desktop\.net course\ASP Core Web App1\ASP Core Web App1\obj\Debug\net6.0\ASP Core Web App1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noorj\OneDrive\Desktop\.net course\ASP Core Web App1\ASP Core Web App1\obj\Debug\net6.0\ASP Core Web App1.AssemblyInfoInputs.cache
+C:\Users\noorj\OneDrive\Desktop\.net course\ASP Core Web App1\ASP Core Web App1\obj\Debug\net6.0\ASP Core Web App1.AssemblyInfo.cs
+C:\Users\noorj\OneDrive\Desktop\.net course\ASP Core Web App1\ASP Core Web App1\obj\Debug\net6.0\ASP Core Web App1.csproj.CoreCompileInputs.cache
+C:\Users\noorj\OneDrive\Desktop\.net course\ASP Core Web App1\ASP Core Web App1\obj\Debug\net6.0\ASP Core Web App1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\noorj\OneDrive\Desktop\.net course\ASP Core Web App1\ASP Core Web App1\obj\Debug\net6.0\ASP Core Web App1.RazorAssemblyInfo.cache
+C:\Users\noorj\OneDrive\Desktop\.net course\ASP Core Web App1\ASP Core Web App1\obj\Debug\net6.0\ASP Core Web App1.RazorAssemblyInfo.cs
+C:\Users\noorj\OneDrive\Desktop\.net course\ASP Core Web App1\ASP Core Web App1\obj\Debug\net6.0\staticwebassets\msbuild.ASP Core Web App1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\noorj\OneDrive\Desktop\.net course\ASP Core Web App1\ASP Core Web App1\obj\Debug\net6.0\staticwebassets\msbuild.build.ASP Core Web App1.props
+C:\Users\noorj\OneDrive\Desktop\.net course\ASP Core Web App1\ASP Core Web App1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASP Core Web App1.props
+C:\Users\noorj\OneDrive\Desktop\.net course\ASP Core Web App1\ASP Core Web App1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASP Core Web App1.props
+C:\Users\noorj\OneDrive\Desktop\.net course\ASP Core Web App1\ASP Core Web App1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\noorj\OneDrive\Desktop\.net course\ASP Core Web App1\ASP Core Web App1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\noorj\OneDrive\Desktop\.net course\ASP Core Web App1\ASP Core Web App1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\noorj\OneDrive\Desktop\.net course\ASP Core Web App1\ASP Core Web App1\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\noorj\OneDrive\Desktop\.net course\ASP Core Web App1\ASP Core Web App1\obj\Debug\net6.0\scopedcss\bundle\ASP Core Web App1.styles.css
+C:\Users\noorj\OneDrive\Desktop\.net course\ASP Core Web App1\ASP Core Web App1\obj\Debug\net6.0\scopedcss\projectbundle\ASP Core Web App1.bundle.scp.css
+C:\Users\noorj\OneDrive\Desktop\.net course\ASP Core Web App1\ASP Core Web App1\obj\Debug\net6.0\ASP Core Web App1.dll
+C:\Users\noorj\OneDrive\Desktop\.net course\ASP Core Web App1\ASP Core Web App1\obj\Debug\net6.0\refint\ASP Core Web App1.dll
+C:\Users\noorj\OneDrive\Desktop\.net course\ASP Core Web App1\ASP Core Web App1\obj\Debug\net6.0\ASP Core Web App1.pdb
+C:\Users\noorj\OneDrive\Desktop\.net course\ASP Core Web App1\ASP Core Web App1\obj\Debug\net6.0\ASP Core Web App1.genruntimeconfig.cache
+C:\Users\noorj\OneDrive\Desktop\.net course\ASP Core Web App1\ASP Core Web App1\obj\Debug\net6.0\ref\ASP Core Web App1.dll
